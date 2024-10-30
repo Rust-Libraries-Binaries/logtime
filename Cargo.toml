@@ -1,0 +1,8 @@
+[package]
+name = "logtime"
+version = "0.1.0"
+authors = ["bensatlantik"]
+edition = "2021"
+license = "MIT"
+description = "A Rust library for timing and optionally logging the execution of code blocks."
+repository = "https://github.com/bensatlantik/logtime"
