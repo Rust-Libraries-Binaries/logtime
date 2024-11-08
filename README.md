@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 ## logtime
 
 **Logtime** is a Rust library for measuring and optionally logging the execution time of code.
@@ -33,6 +37,4 @@ fn main() {
 This project is licensed under the MIT License
 
 ## Author
-Ben Santora (<bensatlantik@gmail.com>)
-
-If you find this library helpful, consider supporting my open-source efforts: https://www.paypal.com/donate/?business=QMSZ2E6L75BYN&no_recurring=0&item_name=If+my+Rust+libraries+have+added+value+to+your+projects%2C+consider+a+small+donation+to+help+me+continue.+Thank+you%21&currency_code=USD
+Ben Santora 
